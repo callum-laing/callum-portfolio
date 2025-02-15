@@ -1,4 +1,5 @@
 import Nav from "./Nav.jsx";
+import Intro from "./Intro.jsx";
 import "./App.css";
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <>
       <Nav />
       <div className="main-container">
-        <h1>Hello world</h1>
+        <Intro />
       </div>
     </>
   );

@@ -4,7 +4,7 @@ function Nav() {
   return (
     <div className="nav-container">
       <nav>
-        <h1>Callum Laing</h1>
+        <h1>CALLUM LAING</h1>
         <div className="nav-list">
           <a href="">About</a>
           <a href="">Projects</a>
