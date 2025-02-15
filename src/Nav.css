@@ -4,8 +4,9 @@ nav {
     gap: 400px;
     font-size: 1.4em;
     padding-bottom: 10px;
-    /* border-bottom: 1px solid rgba(10, 10, 10, 0.2); */
+    border-bottom: 1px solid rgba(10, 10, 10, 0.2);
     margin-bottom: 5em;
+    background-color: rgba(220, 220, 230);
 }
 
 nav a {
