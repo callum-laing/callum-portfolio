@@ -19,8 +19,10 @@ const Intro = () => {
         </p>
         <p>Currently seeking my next adventure as a Developer!</p>
         <div className="social-links">
-          <a href="https://www.linkedin.com/in/callumlaing91/">View LinkedIn</a>
-          <a href="https://github.com/callum-laing">View Github</a>
+          <a className="linkedin-link" href="https://www.linkedin.com/in/callumlaing91/">View LinkedIn
+          </a>
+          <a className="github-link" href="https://github.com/callum-laing">View Github</a>
+          <a className="email-link" href="mailto:callum-laing91@hotmail.co.uk">Email Me</a>
         </div>
       </div>
       <img src="/cal.jpg" alt="" />
