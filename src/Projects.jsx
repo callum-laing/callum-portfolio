@@ -1,7 +1,9 @@
+import "./Projects.css";
+
 const Projects = () => {
   return (
     <div>
-      <h2>Testing projects</h2>
+      <h2 className="projects-title">Projects</h2>
     </div>
   )
 }
