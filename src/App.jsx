@@ -9,9 +9,9 @@ function App() {
       <div className={styles.navContainer}>
         <p>Callum Laing</p>
         <nav>
-          <a href="#projects">Projects</a>
-          <a href="#aboutSection">About</a>
-          <a href="#contactContainer">Contact</a>
+          <a className={styles.navLink} href="#projects">Projects</a>
+          <a className={styles.navLink} href="#aboutSection">About</a>
+          <a className={styles.navLink} href="#contactContainer">Contact</a>
         </nav>
       </div>
 

@@ -8,7 +8,7 @@
     text-align: center;
 }
 
-h2 {
+.contactContainer h2 {
     font-size: 5rem;
     margin-bottom: 50px;
     font-weight: 600;
@@ -100,7 +100,7 @@ img {
 }
 
 @media (min-width: 768px) {
-    h2 {
+    .contactContainer h2 {
         font-size: 4.5rem;
     }
 

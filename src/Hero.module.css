@@ -16,20 +16,20 @@
     opacity: 75%;
 }
 
-h2 {
+.hero h2 {
     padding-top: 15px;
     font-size: 1.5rem;
     color: rgba(220, 220, 220, 1);
 }
 
 @media (max-width: 767px) {
-    h2 {
+    .hero h2 {
         font-size: 1rem;
     }
 }
 
 @media (min-width: 375px) and (max-width: 413px) {
-    h2 {
+    .hero h2 {
         font-size: 0.8rem;
     }
 }

@@ -28,7 +28,7 @@ main {
 	color: rgba(220, 220, 220);
 }
 
-nav a {
+.navLink {
 	text-decoration: none;
 	color: rgba(199, 199, 199);
 	transition: 0.2s ease;
@@ -36,7 +36,7 @@ nav a {
 	padding: 0 10px;
 }
 
-nav a:hover {
+.navLink:hover {
 	color: rgb(81, 139, 179);
 }
 
@@ -45,7 +45,7 @@ nav a:hover {
 		padding: 10px 5px;
 	}
 
-	nav a {
+	.navLink {
 		font-size: 0.8em;
 	}
 
@@ -70,7 +70,7 @@ nav a:hover {
 		font-size: 1.1em;
 	}
 
-	nav a {
+	.navLink {
 		font-size: 0.9em;
 	}
 }
